@@ -23,8 +23,9 @@ Run the application: streamlit run app.py
 Access the web interface at http://localhost:8501 and start generating N-grams.
 
 # Here is the link you can test
-
+https://n-gram-generator-jyhg6ufsg8bmvxpxjhtfy9.streamlit.app/
 
 # Here is the screenshot
+<img width="959" alt="ads" src="https://github.com/attaelahi/N-gram-Generator/assets/72361631/203f7262-04e4-4f5e-84cb-6287f381fee3">
 
 
